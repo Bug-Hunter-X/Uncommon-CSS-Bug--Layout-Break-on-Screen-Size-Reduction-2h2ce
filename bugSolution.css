@@ -1,0 +1,15 @@
+/* bugSolution.css */
+
+@media (max-width: 768px) {
+  /* Style adjustments for smaller screens */
+  #element1 {
+    width: 100%;
+    /* Or use other responsive techniques */
+  }
+  #element2 {
+    margin-top: 10px;
+    /* Or use other responsive techniques */
+  }
+}
+
+/* ... rest of the CSS code ... */
